@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">fastcampus4(tinder)</string>
+    <string name="signUpText">회원 가입</string>
+    <string name="loginText">로그인</string>
+
+    //페이스북 관련
+    <string name="facebook_app_id">459139605769715</string>
+    <string name="fb_login_protocol_scheme">fb459139605769715</string>
+
 </resources>
