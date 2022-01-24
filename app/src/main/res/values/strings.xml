@@ -9,4 +9,8 @@
     <string name="seeMatchList">매치 리스트 보기</string>
     <string name="signOutBtnText">로그아웃 하기</string>
 
+    <string name="write_name">이름을 입력해 주세요</string>
+    <string name="noMatchCardText">매칭할 카드가 없습니다</string>
+    <string name="disLikeText">싫어요</string>
+    <string name="likeText">좋아요</string>
 </resources>
