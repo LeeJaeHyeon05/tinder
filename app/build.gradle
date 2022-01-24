@@ -46,6 +46,12 @@ dependencies {
     // 파이어 베이스 데이터베이스
     implementation 'com.google.firebase:firebase-database-ktx'
 
+    //틴더 애니메이션
+    implementation "com.yuyakaido.android:card-stack-view:2.3.4"
+
+    //리사이클러뷰 리스트
+
+
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.0'
     implementation 'com.google.android.material:material:1.4.0'
